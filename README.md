@@ -14,3 +14,4 @@ RECEIVE data: Receive data by reading a link (data) from the URLname.txt file. A
 Include a list of 5 URLS in the URL_List.txt file. The links should be delimited by a " " character.
 
 UML Diagram:
+![Blank diagram](https://user-images.githubusercontent.com/71619173/198929853-3e55ac3d-2f4e-4bfc-b8f0-19808da9c3b6.png)
