@@ -8,7 +8,7 @@ REQUEST data: Request data by writing the random number (data) to the randNum.tx
         
 RECEIVE data: Receive data by reading a link (data) from the URLname.txt file. A sample call:
     linkFile = open('URL_name.txt', 'r')
-    links = linkFile.read()
+    link = linkFile.read()
     linkFile.close()
     
 Include a list of 5 URLS in the URL_List.txt file. The links should be delimited by a " " character.
